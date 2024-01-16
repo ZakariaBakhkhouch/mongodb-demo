@@ -1,1 +1,1 @@
-An Asp.net core web API that demonstrate how to implement CRUD operations using a MongoDB database.
+- An Asp.net core web API project that demonstrates how to implement CRUD operations using a MongoDB database.
